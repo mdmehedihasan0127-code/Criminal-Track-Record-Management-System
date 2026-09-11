@@ -1,0 +1,3 @@
+1001|Bank Robbery|Karim|Rahim|30|Mirpur|Robbery|Dhaka|FP1001|DNA1001|Black|Brown|Jony|017xxxxxxxx|Open
+1002|Bike Robbery|Anis|Firoz|25|Savar|Robbery|Dhaka|FP1002|DNA1002|Black|Black|Monir|019xxxxxxxx|Pending
+1003|tdtrd|ftft|gytytfy|25|gyfy|ggvyf|hguuh|ghgvy|hhu|iiuhui|uhiuhi|yuygu|jijiji|Closed
